@@ -1,5 +1,5 @@
 After cloning this repository, make symbolic link to
 
-ln -s $GIT/.vimrc ~/.vimrc
-ln -s $GIT/vimrc ~/.vim
+ln -s $PATH_TO_VIMRC_GIT_REPOSITORY/.vimrc ~/.vimrc
+ln -s $PATH_TO_VIMRC_GIT_REPOSITORY/vimrc ~/.vim
 

@@ -1,5 +1,2 @@
-After cloning this repository, make symbolic link to
-
-ln -s $PATH_TO_VIMRC_GIT_REPOSITORY/.vimrc ~/.vimrc
-ln -s $PATH_TO_VIMRC_GIT_REPOSITORY/vimrc ~/.vim
-
+After cloning this repository, run install.sh
+And never remove  this repository. or you will loose configuration

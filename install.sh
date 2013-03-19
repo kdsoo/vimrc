@@ -12,6 +12,7 @@ function check_packages()
 	else
 		echo '####################################################'
 		echo 'cscope package required. Install cscope'
+		echo 'run following command:'
 		echo '	sudo apt-get install cscope'
 		echo '####################################################'
 		exit $?
@@ -24,6 +25,7 @@ function check_packages()
 	else
 		echo '####################################################'
 		echo 'ctags package required. Install ctags'
+		echo 'run following command:'
 		echo 'sudo apt-get install ctags'	
 		echo '####################################################'
 		exit $?
